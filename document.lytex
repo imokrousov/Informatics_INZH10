@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{graphics}
+\usepackage{amsmath}
+\usepackage{indentfirst}
+%\usepackage{misccorr}
+\begin{document}
+    $$
+    	\cos2x+\sin x\cos x=1 
+    $$
+    $$
+    	\cos2x+\sin x\cos x= \sin^2 x+\cos^2 x
+    $$
+    $$
+    	\cos^2 x-\sin^2 x +\sin x\cos x = \sin^2 x+\cos^2 x
+    $$
+    $$
+    	\sin x\cos x = 2\sin^2x
+    $$
+    $$
+    	\left[
+    	\begin{array}{ccc}
+    	\sin x = 0 \\
+    	\cos x = 2\sin x \\
+    	\end{array}
+    	\right.
+    $$
+    $$
+    \left[
+    \begin{array}{ccc}
+    x = \pi k \\
+    x = \arcsin\left( \frac{1}{sqrt(5)} \right) +\pi k\\
+    \end{array}
+    \right.
+    $$
+  
+\end{document}
